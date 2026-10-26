@@ -5,7 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "pybigue"
 version = "1.0.0"
-authors = [{name = "Simon Lizotte", email = "simon.lizotte.1@ulaval.ca"},]
+authors = [{name = "Ariane Lizotte", email = "ariane.lizotte.2@ulaval.ca"},]
 description = "Sampling algorithm of network hyperbolic embeddings."
 readme = "README.md"
 requires-python = ">=3.10"

@@ -7,11 +7,11 @@ Bayesian Inference of a Graph's Unkown Embedding (BIGUE) is a Markov Chain Monte
 The code used to generate the Figures in the paper is in the [bigue-analysis] repository.
 If you use this algorithm, please cite:
 
-[Simon Lizotte](https://siliz4.github.io), [Jean-Gabriel Young](https://jgyoung.ca) and [Antoine Allard](https://antoineallard.github.io)
+Ariane Lizotte, [Jean-Gabriel Young](https://jgyoung.ca) and [Antoine Allard](https://antoineallard.github.io)
 "Symmetry-driven embedding of networks in hyperbolic space". _Commun. Phys._ __8__, 199 (2025).
 https://doi.org/10.1038/s42005-025-02122-0
 
-Simon Lizotte. "bigue". Zenodo (2025). https://doi.org/10.5281/zenodo.15189657.
+Ariane Lizotte. "bigue". Zenodo (2025). https://doi.org/10.5281/zenodo.15189657.
 
 ## Installation
 
